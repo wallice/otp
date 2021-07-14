@@ -6,6 +6,7 @@ It's written in bash, and has a minimal set of dependencies.
 
 HMACs are calculated with OpenSSL, and date/string manipulation is done with GNU coreutils.
 
+
 ## Installation
 
 To install, simply put the `otp` script in your `$PATH`.
